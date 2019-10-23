@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">6_SegundaAtivProgApps(App Calc AutonomiaAutomoveis)</string>
+    <string name="tv_resul_autonomia">XX,XX</string>
+    <string name="lbl_unidade_medida_autonomia">Km/L</string>
+    <string name="btn_abastecimentos">Abastecimentos</string>
+    <string name="data_abastecimento">DD/MM/AA</string>
+    <string name="nro_totalL_abastecidos">X,X</string>
+    <string name="lbl_total_km_do_veiculo">XXXXXX</string>
+    <string name="imglogoposto">ImgLogoPosto</string>
+    <string name="lbl_dta_abaste">Data do abastecimento:</string>
+    <string name="lbl_tot_litros_abaste">Total litros abastecidos:</string>
+    <string name="atual_km_veiculo">KM atual do veículo:</string>
+    <string name="lbl_unidade_medida">L</string>
+    <string name="km_atual">Quilometragem atual do veículo:</string>
+    <string name="L_abastecidos">Litros abastecidos:</string>
+    <string name="prioridade">-- Selecione um posto --</string>
+    <string name="btn_excluir">Excluir</string>
+    <string name="btn_salvar">Salvar</string>
+
+    <string-array name="opcoes_postos">
+        <item>Texaco</item>
+        <item>Shell</item>
+        <item>Petrobras</item>
+        <item>Ipiranga</item>
+        <item>Outros</item>
+    </string-array>
+</resources>
